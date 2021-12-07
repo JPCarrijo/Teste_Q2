@@ -33,7 +33,7 @@ export default function Container() {
 
   }
 
-  const numberPages = Math.floor(total / 50); //Constante guarda a quantidade de páginas
+  const numberPages = Math.floor(total / 100); //Constante guarda a quantidade de páginas
 
   return (
     <>
